@@ -4,7 +4,7 @@ A very simple bottom menu and screen transition using Jetpack Compose, which int
 
 1. New Project > Empty Activity Project
 
-   These are automatically generated codes using Android Studio before starting coding.
+   These are automatically generated codes using Android Studio before start coding.
   https://github.com/mkjry/BottomNavCompose/commit/13443a0dcfac5d1017135c4864921f298cc44d82
 
 3. Add Dependency, clean codes
