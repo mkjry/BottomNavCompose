@@ -18,14 +18,14 @@ A very simple bottom menu and screen transition using Jetpack Compose, which int
 3. Navigation logic codes
   https://github.com/mkjry/BottomNavCompose/commit/69c374743686d5caddc0ef7cf76633948145aab1
 
+   MainActivity.kt
+
    Define Screen Routes
    
-   MainActivity.kt
    <img width="1015" height="171" alt="image" src="https://github.com/user-attachments/assets/b0023595-1cfa-4c1c-b5ba-e2e65ee447cd" />
 
    Implement the Navigation UI
 
-   MainActivity.kt
    <img width="1395" height="1822" alt="image" src="https://github.com/user-attachments/assets/b1a0b4c0-7c4f-43a8-b0ca-744c9e0f1df7" />
 
 Summary of the Workflow
